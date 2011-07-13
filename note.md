@@ -28,8 +28,10 @@ bash is a kind of shell.
 
     mkdir dir
 
-peter@cow:~/tg-note$
-user@machinename:currentWorkingDirectory(folder)$
+## shell prompt
+
+    peter@cow:~/tg-note$
+    user@machinename:currentWorkingDirectory(folder)$
 
 # ref
 
