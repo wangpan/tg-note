@@ -20,10 +20,19 @@ bash is a kind of shell.
     ls
 
     cd 
+    # ~ means your home dir
 
     pwd
 
     man pwd # q to quit
 
+    mkdir dir
+
 peter@cow:~/tg-note$
 user@machinename:currentWorkingDirectory(folder)$
+
+# ref
+
+http://happypeter.github.com/LGCB/
+
+http://billie66.github.com/TLCL/book/
