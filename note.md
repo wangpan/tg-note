@@ -11,7 +11,7 @@ OS as MS see it:
 
 OS is kernel + desktop env.
 
-# shell ( shell is a commandline interprtor)
+# shell ( shell is a commandline interpreter)
 
 bash is a kind of shell. 
 
@@ -23,3 +23,5 @@ cd
 
 pwd
 
+peter@cow:~/tg-note$
+user@machinename:currentWorkingDirectory(folder)$
