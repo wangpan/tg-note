@@ -21,6 +21,7 @@ bash is a kind of shell.
 
     cd 
     # ~ means your home dir
+    cd .. # go to the parent of current dir
 
     pwd
 
