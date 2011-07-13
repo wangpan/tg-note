@@ -17,11 +17,13 @@ bash is a kind of shell.
 
 ## filesystem tree
 
-ls
+    ls
 
-cd 
+    cd 
 
-pwd
+    pwd
+
+    man pwd # q to quit
 
 peter@cow:~/tg-note$
 user@machinename:currentWorkingDirectory(folder)$
