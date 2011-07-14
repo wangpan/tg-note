@@ -15,6 +15,10 @@ OS is kernel + desktop env.
    Clear screen : Ctrl-l
    Copy and Paste: select -> middle button
 
+## language
+
+https://github.com/happypeter/job-akae/wiki
+
 # shell ( shell is a commandline interpreter)
 
 bash is a kind of shell. 
