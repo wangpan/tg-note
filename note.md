@@ -29,10 +29,19 @@ bash is a kind of shell.
 
     mkdir dir
 
+### path
+
+    绝对路径: start with /
+    相对路径: start with .
+
 ## shell prompt
 
     peter@cow:~/tg-note$
     user@machinename:currentWorkingDirectory(folder)$
+
+# software installation
+
+    sudo apt-get install tree
 
 # ref
 
