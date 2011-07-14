@@ -13,6 +13,7 @@ OS is kernel + desktop env.
 # tips
 
    Clear screen : Ctrl-l
+
    Copy and Paste: select -> middle button
 
 ## language
