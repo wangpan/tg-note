@@ -10,6 +10,10 @@ ubuntu is Linux + 1000 app.
 OS as MS see it:
 
 OS is kernel + desktop env.
+# tips
+
+   Clear screen : Ctrl-l
+   Copy and Paste: select -> middle button
 
 # shell ( shell is a commandline interpreter)
 
