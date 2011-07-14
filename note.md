@@ -19,6 +19,10 @@ OS is kernel + desktop env.
 
 https://github.com/happypeter/job-akae/wiki
 
+## translation
+
+http://dict.youdao.com/
+
 # shell ( shell is a commandline interpreter)
 
 bash is a kind of shell. 
