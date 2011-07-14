@@ -56,6 +56,11 @@ bash is a kind of shell.
 
     sudo apt-get install tree
 
+
+# tar 
+
+http://www.happypeter.org/posts/10
+
 # ref
 
 http://happypeter.github.com/LGCB/
