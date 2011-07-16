@@ -25,6 +25,8 @@ http://www.w3schools.com/
 
 http://progit.org/
 
+video: search "linus git" at youku.com
+
 # linux basics
 
 Linux is OS(operating system)
