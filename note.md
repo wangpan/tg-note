@@ -21,6 +21,9 @@ http://www.w3schools.com/
 
     git pull
 
+## ref
+
+http://progit.org/
 
 # linux basics
 
