@@ -1,3 +1,7 @@
+# markdown
+
+http://happypeter.github.com/LGCB/book/toy_markdown.html
+
 # git
 ## install
 
