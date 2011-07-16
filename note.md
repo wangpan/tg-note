@@ -95,3 +95,12 @@ http://www.happypeter.org/posts/10
 http://happypeter.github.com/LGCB/
 
 http://billie66.github.com/TLCL/book/
+
+
+## some of my favorite sites
+
+http://www.linfo.org/
+
+http://www.wikipedia.org/
+
+http://news.ycombinator.com/news
