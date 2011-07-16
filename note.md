@@ -9,6 +9,10 @@
 
     http://happypeter.github.com/LGCB/book/toy_markdown.html
 
+### html study
+
+http://www.w3schools.com/
+
 # git
 ## install
 
