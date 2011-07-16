@@ -2,6 +2,7 @@
 ## install
 
     sudo apt-get install git-core 
+    sudo apt-get install tig
 
 
 # linux basics
