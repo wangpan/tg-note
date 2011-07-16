@@ -4,6 +4,8 @@
     sudo apt-get install git-core 
     sudo apt-get install tig
 
+    git pull
+
 
 # linux basics
 
