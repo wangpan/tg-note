@@ -1,8 +1,8 @@
 # vim
 
-Command = operator + number + motion
-            d(elete)  1,2
-            y(ank)             gg+G
+    Command = operator + number + motion
+                d(elete)  1,2
+                y(ank)             gg+G
 
 
 # markdown
