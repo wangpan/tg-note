@@ -1,3 +1,11 @@
+# git
+## install
+
+    sudo apt-get install git-core 
+
+
+# linux basics
+
 Linux is OS(operating system)
 OS as linus see it:
 
