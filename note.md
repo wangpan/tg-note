@@ -1,6 +1,13 @@
+# vim
+
+Command = operator + number + motion
+            d(elete)  1,2
+            y(ank)             gg+G
+
+
 # markdown
 
-http://happypeter.github.com/LGCB/book/toy_markdown.html
+    http://happypeter.github.com/LGCB/book/toy_markdown.html
 
 # git
 ## install
