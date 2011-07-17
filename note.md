@@ -50,6 +50,10 @@ http://www.w3schools.com/
 
         git commit -a -m "my first version"
 
+## github
+
+http://www.happypeter.org/posts/21
+
 ## ref
 
 http://progit.org/
