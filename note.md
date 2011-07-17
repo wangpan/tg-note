@@ -24,11 +24,11 @@ http://www.w3schools.com/
 
 1. first create a dir
 
-       mkdir ggg
+        mkdir ggg
 
 2. now you MUST cd to this dir
 
-       cd ggg
+        cd ggg
 
 3. initializing this git dir
 
