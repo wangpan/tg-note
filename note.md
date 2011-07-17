@@ -34,7 +34,7 @@ http://www.w3schools.com/
 
         git init
 
-   now you can see a `.git` in this dir
+    now you can see a `.git` in this dir
 
         ls -a
 
