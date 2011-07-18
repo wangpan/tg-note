@@ -22,6 +22,7 @@ http://media.happypeter.org/screencasts.html
     :bn # go to next buffer
     :bp # go to previous buffer
     :bd # delete a buffer
+## ~/.vimrc
 
 # markdown
 
