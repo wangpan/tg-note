@@ -12,6 +12,12 @@
  
 首先用可视行模式选中这几行,然后 `>`
 
+## multiple files
+
+    :ls #see buffers
+    :bn # go to next buffer
+    :bp # go to previous buffer
+
 # markdown
 
     http://happypeter.github.com/LGCB/book/toy_markdown.html
