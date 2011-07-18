@@ -14,7 +14,7 @@
 http://www.w3schools.com/
 
 # git
-## install
+## 安装
 
     sudo apt-get install git-core 
     sudo apt-get install tig
