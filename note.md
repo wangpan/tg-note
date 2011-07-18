@@ -17,6 +17,7 @@
     :ls #see buffers
     :bn # go to next buffer
     :bp # go to previous buffer
+    :bd # delete a buffer
 
 # markdown
 
