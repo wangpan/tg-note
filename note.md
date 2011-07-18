@@ -4,6 +4,13 @@
                 d(elete)  1,2
                 y(ank)             gg+G
 
+## 可视行(visual line)
+
+启动和退出: V
+
+整体缩进几行代码：
+ 
+首先用可视行模式选中这几行,然后 `>`
 
 # markdown
 
